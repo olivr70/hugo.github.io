@@ -1,0 +1,4 @@
+baseURL: http://example.org/
+languageCode: fr-fr
+title: Oliver's tips & tricks
+config": hugo-flex

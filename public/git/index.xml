@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gits on Oliver&#39;s tips &amp; tricks</title>
+    <link>http://example.org/git/</link>
+    <description>Recent content in Gits on Oliver&#39;s tips &amp; tricks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 14 Jul 2019 09:20:02 +0200</lastBuildDate>
+    
+	<atom:link href="http://example.org/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Git Tips</title>
+      <link>http://example.org/git/tips/</link>
+      <pubDate>Sun, 14 Jul 2019 09:20:02 +0200</pubDate>
+      
+      <guid>http://example.org/git/tips/</guid>
+      <description>Plusieurs trucs et astuces pour utiliser Git</description>
+    </item>
+    
+    <item>
+      <title>Git Cli</title>
+      <link>http://example.org/git/cli/</link>
+      <pubDate>Sun, 14 Jul 2019 09:11:14 +0200</pubDate>
+      
+      <guid>http://example.org/git/cli/</guid>
+      <description> Hub hub offre toutes les commandes de git, et plusieurs nouvelles, comme principalement :
+ hub browse hub create [-poc][-d description] [-h HOMEPAGE][organization/]NAME] hub fork [&amp;ndash;no-remote][&amp;ndash;remote-name remote] [&amp;ndash;org ORGANIZATION]  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,9 +6,28 @@
     <description>Recent content in Tags on Oliver&#39;s tips &amp; tricks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
+    <lastBuildDate>Sun, 14 Jul 2019 09:20:02 +0200</lastBuildDate>
     
 	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Git</title>
+      <link>http://example.org/tags/git/</link>
+      <pubDate>Sun, 14 Jul 2019 09:20:02 +0200</pubDate>
+      
+      <guid>http://example.org/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://example.org/tags/hugo/</link>
+      <pubDate>Sun, 14 Jul 2019 09:22:22 +0200</pubDate>
+      
+      <guid>http://example.org/tags/hugo/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

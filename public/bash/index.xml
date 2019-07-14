@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bashes on Oliver&#39;s tips &amp; tricks</title>
+    <link>http://example.org/bash/</link>
+    <description>Recent content in Bashes on Oliver&#39;s tips &amp; tricks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 14 Jul 2019 09:56:05 +0200</lastBuildDate>
+    
+	<atom:link href="http://example.org/bash/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bahs History</title>
+      <link>http://example.org/bash/history/</link>
+      <pubDate>Sun, 14 Jul 2019 09:56:05 +0200</pubDate>
+      
+      <guid>http://example.org/bash/history/</guid>
+      <description>Bash History Insertion dans l&amp;rsquo;history ignore une ligne commençant par 
+ignore les commandes déjà présentes
+history -c - efface l&amp;rsquo;historique de session
+Navigation Up/Down - commande préc/suiv
+Ctrl+R - recherche dans l&amp;rsquo;history
+Expansion !! - la dernière commande
+ ex : sudo !! - exécute la dernière commande avec sudo
+ ex : !! | grep &amp;quot;??&amp;quot; - filtre la dernière commande
+  !n - la commande n (</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/bash/find/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/bash/find/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

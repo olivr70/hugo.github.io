@@ -6,9 +6,76 @@
     <description>Recent content on Oliver&#39;s tips &amp; tricks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
+    <lastBuildDate>Sun, 14 Jul 2019 10:13:36 +0200</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Yaml</title>
+      <link>http://example.org/yaml/</link>
+      <pubDate>Sun, 14 Jul 2019 10:13:36 +0200</pubDate>
+      
+      <guid>http://example.org/yaml/</guid>
+      <description>Articles Tutorial</description>
+    </item>
+    
+    <item>
+      <title>Bahs History</title>
+      <link>http://example.org/bash/history/</link>
+      <pubDate>Sun, 14 Jul 2019 09:56:05 +0200</pubDate>
+      
+      <guid>http://example.org/bash/history/</guid>
+      <description>Bash History Insertion dans l&amp;rsquo;history ignore une ligne commençant par 
+ignore les commandes déjà présentes
+history -c - efface l&amp;rsquo;historique de session
+Navigation Up/Down - commande préc/suiv
+Ctrl+R - recherche dans l&amp;rsquo;history
+Expansion !! - la dernière commande
+ ex : sudo !! - exécute la dernière commande avec sudo
+ ex : !! | grep &amp;quot;??&amp;quot; - filtre la dernière commande
+  !n - la commande n (</description>
+    </item>
+    
+    <item>
+      <title>Hugo Tips</title>
+      <link>http://example.org/hugo/tips/</link>
+      <pubDate>Sun, 14 Jul 2019 09:22:22 +0200</pubDate>
+      
+      <guid>http://example.org/hugo/tips/</guid>
+      <description>Thèmes inclure et mettre à jour Inclure le thème
+git submodule add https://github.com/&amp;lt;URL&amp;gt;.git themes/&amp;lt;NAME&amp;gt;
+Mettre à jour le thème
+git submodule update --remote --rebase</description>
+    </item>
+    
+    <item>
+      <title>Git Tips</title>
+      <link>http://example.org/git/tips/</link>
+      <pubDate>Sun, 14 Jul 2019 09:20:02 +0200</pubDate>
+      
+      <guid>http://example.org/git/tips/</guid>
+      <description>Plusieurs trucs et astuces pour utiliser Git</description>
+    </item>
+    
+    <item>
+      <title>Git Cli</title>
+      <link>http://example.org/git/cli/</link>
+      <pubDate>Sun, 14 Jul 2019 09:11:14 +0200</pubDate>
+      
+      <guid>http://example.org/git/cli/</guid>
+      <description> Hub hub offre toutes les commandes de git, et plusieurs nouvelles, comme principalement :
+ hub browse hub create [-poc][-d description] [-h HOMEPAGE][organization/]NAME] hub fork [&amp;ndash;no-remote][&amp;ndash;remote-name remote] [&amp;ndash;org ORGANIZATION]  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/bash/find/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/bash/find/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

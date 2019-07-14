@@ -3,17 +3,84 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://example.org/yaml/</loc>
+    <lastmod>2019-07-14T10:13:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/bash/history/</loc>
+    <lastmod>2019-07-14T09:56:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/hugo/tips/</loc>
+    <lastmod>2019-07-14T09:22:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/git/tips/</loc>
+    <lastmod>2019-07-14T09:20:02+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/git/cli/</loc>
+    <lastmod>2019-07-14T09:11:14+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/bash/find/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/bash/</loc>
+    <lastmod>2019-07-14T09:56:05+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://example.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>http://example.org/tags/git/</loc>
+    <lastmod>2019-07-14T09:20:02+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/git/</loc>
+    <lastmod>2019-07-14T09:20:02+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/git/</loc>
+    <lastmod>2019-07-14T09:20:02+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/hugo/</loc>
+    <lastmod>2019-07-14T09:22:22+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/hugo/</loc>
+    <lastmod>2019-07-14T09:22:22+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://example.org/</loc>
+    <lastmod>2019-07-14T10:13:36+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://example.org/tags/</loc>
+    <lastmod>2019-07-14T09:20:02+02:00</lastmod>
     <priority>0</priority>
   </url>
   
